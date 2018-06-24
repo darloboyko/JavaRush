@@ -14,6 +14,8 @@ public class Solution_9 {
         //  System.out.print(" плюс ");//
         // System.out.print("три");//
         System.out.print(a);
+
+        System.out.print(" равно ");
         System.out.print(" равно ");
         // System.out.print("пять"); //
         System.out.print(a + b);
