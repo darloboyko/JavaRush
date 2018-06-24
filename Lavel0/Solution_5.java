@@ -6,6 +6,7 @@ public class Solution_5 {
         String name;
         int age;
         String city;
+
         //напишите тут ваш код
     }
 }
