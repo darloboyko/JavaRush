@@ -1,5 +1,9 @@
 package Lavel0;
 
+/*
+2 + 3 = 5
+*/
+
 public class Solution_9 {
     public static void main(String[] args) {
         String s = "23";
