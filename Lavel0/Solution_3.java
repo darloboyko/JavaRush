@@ -12,7 +12,7 @@ public class Solution_3 {
         System.out.println(a);
         System.out.println(a);
         System.out.println(a);
-               System.out.println(a);
+        System.out.println(a);
         System.out.println(a);
         //напишите тут ваш код
     }
