@@ -1,4 +1,4 @@
-package Lavel0;
+package Lavel1;
 
 /*
 «Я по объявлению…»
@@ -10,4 +10,5 @@ public class Solution_10 {
         int b=8;
         //напишите тут ваш код
     }
+
 }
