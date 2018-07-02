@@ -11,7 +11,7 @@ public class Solution_30 {
     }
 
     public static int sqr(int a) {
-        return a * a;
+        return a*a;
     }
 }
 
