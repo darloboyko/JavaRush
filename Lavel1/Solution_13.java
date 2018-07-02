@@ -1,11 +1,9 @@
 package Lavel1;
 
 
-/*
-Выводим квадрат числа
-*/
 
-public class Solutoin_13 {
+
+public class Solution_13 {
     public static int number = 456;
 
     public static void main(String[] args)
