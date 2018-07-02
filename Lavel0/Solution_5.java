@@ -1,5 +1,9 @@
 package Lavel0;
 
+/*
+Объявляем переменные
+*/
+
 public class Solution_5 {
     public static void main(String[] args)
     {
