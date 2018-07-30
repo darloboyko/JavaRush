@@ -14,6 +14,7 @@ public class Solution_53 {
 
     public static void main(String[] args)
     {
+
         printString("Hello Amigo!");
     }
 }
